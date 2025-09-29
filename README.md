@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Azim</h1>
 <h3 align="center">Frontend developer from himalayas</h3>
 
+<p aligh="right"><img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1xNDR3N2NwOTZud2s2MnFnZDg5NnRkaXByY3ZjNTc0d2pwcDJ2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="azim" width="200" </p>
+
 - 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
