@@ -16,8 +16,8 @@
 <table cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <!-- left cell: icons -->
-    <td valign="middle">
-      <p style="margin:0;">
+    <td width="75%" valign="middle">
+      <p style="margin:0; line-height:1.6;">
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
         </a>
@@ -36,13 +36,14 @@
       </p>
     </td>
 
-    <!-- right cell: GIF -->
-    <td valign="middle" align="right">
-      <img alt="coding cat gif" width="220"
+    
+  <td width="25%" valign="middle" align="right">
+      <img alt="coding cat gif" width="140"
         src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDluNDZpZ3h6Y21qeW5xYmcwMDl0MnJoaW53aDZjbTkxdGh1eWNkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
     </td>
   </tr>
 </table>
+
 
 
 
